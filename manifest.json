@@ -1,0 +1,10 @@
+{
+  "id": "4i-system-manager",
+  "name": "4I System Taxonomy Manager",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Automates the 4I taxonomy framework with dynamic folder routing, automatic frontmatter tags, and bidirectional parent-child linking.",
+  "author": "Can Okyar Başlar",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
